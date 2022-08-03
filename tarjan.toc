@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}DFS tree}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}概念}{1}{subsection.1.1}%
+\contentsline {section}{\numberline {2}連通}{3}{section.2}%
+\contentsline {paragraph}{定義}{3}{section*.2}%
+\contentsline {section}{\numberline {3}連通分量}{3}{section.3}%
+\contentsline {subsection}{\numberline {3.1}邊雙連通分量/橋}{3}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}點雙連通分量/割點}{3}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Tarjan}{4}{section.4}%
+\contentsline {subsection}{\numberline {4.1}無向圖}{4}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}有向圖}{5}{subsection.4.2}%
