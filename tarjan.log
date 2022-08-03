@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.21)  3 AUG 2022 21:14
+This is XeTeX, Version 3.141592653-2.6-0.999994 (TeX Live 2022) (preloaded format=xelatex 2022.5.21)  3 AUG 2022 21:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -910,7 +910,7 @@ Package rerunfilecheck Info: File `tarjan.out' has not changed.
 Here is how much of TeX's memory you used:
  29178 strings out of 476133
  629047 string characters out of 5811991
- 1184344 words of memory out of 5000000
+ 1185344 words of memory out of 5000000
  49444 multiletter control sequences out of 15000+600000
  481717 words of font info for 86 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
