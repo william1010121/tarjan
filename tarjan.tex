@@ -332,7 +332,7 @@ Tarjan 的無向圖比較簡單理解一些，
 \begin{enumerate}
     \item
         因為無向圖在\textbf{DFS}時，
-        任兩個相鄰的點$u$ $v$的$t_in$差距應該為$1$
+        任兩個相鄰的點$u$ $v$的$t\_in$差距應該為$1$
         顯然\textbf{Cross Edge}並不符合。
 \end{enumerate}
 \end{adjustwidth}
@@ -407,7 +407,7 @@ func Tarjan(node current) {
     Time_count <- Time_count+1
     node_save.push( current)
 
-    for edge in edge_from_current 
+    for edge in current.edge
         if( not edge.to.isvisited )
             Tarjan( edge.to )
         else   
